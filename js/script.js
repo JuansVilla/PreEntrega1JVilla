@@ -58,30 +58,3 @@ let valorDeCuotas = valorFinalPrestamoSolicitado / cuotasSolicitadas
 alert((`El valor final del prestamo solicitado es de $${valorFinalPrestamoSolicitado} y se solicita en ${cuotasSolicitadas} `))
 alert((`El valor final de las cuotas es $${valorDeCuotas}`))
 
-
-
-
-
-
-
-
-
-
-/* 5. Calcular valor final del prestamo y de las cuotas */
-
-
-
-
-
-
-
-
-
-// while (valorDeCuotas < cuotaIdeal) {
-    //  valorDeCuotas = prompt(`Su prestamo es viable teniendo en cuenta el monto solicitado $${prestamoSolicitado} y sus ingresos de $${salario}`)
-// }
-
-
-
-
-
